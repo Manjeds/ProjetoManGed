@@ -29,3 +29,4 @@ C:\Users\ivson\OneDrive\DOCUMENTOS\Projetos\ManGed\ManGed\obj\Debug\net7.0\refin
 C:\Users\ivson\OneDrive\DOCUMENTOS\Projetos\ManGed\ManGed\obj\Debug\net7.0\ManGed.pdb
 C:\Users\ivson\OneDrive\DOCUMENTOS\Projetos\ManGed\ManGed\obj\Debug\net7.0\ManGed.genruntimeconfig.cache
 C:\Users\ivson\OneDrive\DOCUMENTOS\Projetos\ManGed\ManGed\obj\Debug\net7.0\ref\ManGed.dll
+C:\Users\ivson\OneDrive\DOCUMENTOS\Projetos\ManGed\ManGed\bin\Debug\net7.0\package.json
