@@ -2,8 +2,9 @@
 
 namespace ManGed.Controllers
 {
-    public class LoginController1 : Controller
+    public class LoginController : Controller
     {
+        //GET: Login
         public IActionResult Index()
         {
             return View();
