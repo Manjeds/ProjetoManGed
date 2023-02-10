@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\danil\\.nuget\\packages\\": {}
+    "C:\\Users\\ivson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\Desktop\\ProjetoManGed\\ManGed\\ManGed.csproj",
+      "projectUniqueName": "C:\\Users\\ivson\\OneDrive\\DOCUMENTOS\\Projetos\\ManGed\\ProjetoManGed\\ManGed\\ManGed.csproj",
       "projectName": "ManGed",
-      "projectPath": "C:\\Users\\danil\\Desktop\\ProjetoManGed\\ManGed\\ManGed.csproj",
-      "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\Desktop\\ProjetoManGed\\ManGed\\obj\\",
+      "projectPath": "C:\\Users\\ivson\\OneDrive\\DOCUMENTOS\\Projetos\\ManGed\\ProjetoManGed\\ManGed\\ManGed.csproj",
+      "packagesPath": "C:\\Users\\ivson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ivson\\OneDrive\\DOCUMENTOS\\Projetos\\ManGed\\ProjetoManGed\\ManGed\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ivson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
