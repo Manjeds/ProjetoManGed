@@ -7,10 +7,10 @@
                      class="img-fluid" alt="Sample image">
             </div>
             <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
-                <form>    
-                <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+                <form>
+                    <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
                         <p class="lead fw-normal mb-0 me-3">Acessar Utilizando Usuario e Senha</p>
-                        
+
                     </div>
 
 
@@ -35,7 +35,7 @@
                             <label class="form-check-label" for="form2Example3">
                                 Lembrar Minha Senha
                             </label>
-                        </div> 
+                        </div>
                     </div>
 
                     <div class="text-center text-lg-start mt-4 pt-2">
@@ -43,18 +43,46 @@
                                 style="padding-left: 2.5rem; padding-right: 2.5rem;">
                             Entrar
                         </button>
-                        <button  type="button" class="btn btn-info"
-                                style="padding-left: 2.5rem; padding-right: 2.5rem;">
-                            Esqueci a Senha
+
+                        <!-- Button trigger modal -->
+                        <button type="button" class="btn btn-primary" style="padding-left: 2.5rem; padding-right: 2.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+                            Esqueci Minha Senha
                         </button>
 
-                        
-                        
+                        <!-- Modal -->
+                        <div class="modal top fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                             aria-hidden="true" data-mdb-backdrop="true" data-mdb-keyboard="true">
+                            <div class="modal-dialog" style="width: 300px;">
+                                <div class="modal-content text-center">
+                                    <div class="modal-header h5 text-white bg-primary justify-content-center">
+                                        Recuperar Senha
+                                    </div>
+                                    <div class="modal-body px-5">
+                                        <p class="py-2">
+                                            Informe seu e-mail e em seguida receberar as instruções para resetar sua senha.
+                                        </p>
+                                        <div class="form-outline">
+                                            <input type="email" id="typeEmail" class="form-control my-3" />
+                                            <label class="form-label" for="typeEmail">E-mail Cadastrado</label>
+                                        </div>
+                                        <a href="#" class="btn btn-primary w-100">Resetar Senha</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
                     </div>
 
+
+
+
                 </form>
+
             </div>
         </div>
     </div>
-    
+
 </section>
